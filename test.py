@@ -1,1 +1,1 @@
-print("자기얌 사랑행.")
+print("I love you. 자기얌 사랑행.")
